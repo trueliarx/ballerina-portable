@@ -6,5 +6,5 @@ To execute ballerina execute/write+Enter "bal" from the prompt.
 
 --
 
-I'm not affiliated to ballerina
+This extremely simple tool is not affiliated to ballerina
 Official website: https://ballerina.io/
